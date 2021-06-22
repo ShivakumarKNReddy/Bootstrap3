@@ -1,6 +1,6 @@
 # Bootstrap3
 
-## Container is the most important part in Bootsrap.
+## Container and container-fluid is the most important part in Bootsrap.
 
 ### Container must be included in the div.
 
